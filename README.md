@@ -41,6 +41,16 @@ The menu exposes a **Bots** option and the codebase includes the scaffolding for
 - Cabal
 - Gloss / gloss-juicy (resolved automatically by Cabal)
 
+## Cloning
+
+# via SSH
+git clone git@github.com:pereiravp/LP.git
+
+# via HTTPS
+git clone https://github.com/pereiravp/LP.git
+
+cd LP
+
 ## Building and Running
 
 ```bash
