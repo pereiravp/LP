@@ -23,13 +23,13 @@ The project reimplements the core mechanics of *Worms* under a strictly function
 
 Main menu:
 
-<!-- Replace with a screenshot of the menu, e.g. docs/screenshots/menu.png -->
-![Main menu](docs/screenshots/menu.png)
+<img width="954" height="539" alt="image" src="https://github.com/user-attachments/assets/d265826a-02b1-49f2-b2e6-7b2e3078bf36" />
+
 
 Gameplay:
 
-<!-- Replace with a screenshot of the gameplay, e.g. docs/screenshots/gameplay.png -->
-![Gameplay](docs/screenshots/gameplay.png)
+<img width="947" height="532" alt="image" src="https://github.com/user-attachments/assets/189fa945-357d-4530-a2b2-4b8ba131fb3d" />
+
 
 ## Known Limitations
 
