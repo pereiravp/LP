@@ -6,8 +6,8 @@ Implementation of the classic *Worms* game written entirely in **Haskell**, usin
 
 Group project developed by:
 
-- **Gonçalo Pereira** — a111783@alunos.uminho.pt
-- **David Mimoso** — a111115@alunos.uminho.pt
+- **Gonçalo Pereira** — @pereiravp
+- **David Mimoso** — @davidmimoso
 
 ## Overview
 
