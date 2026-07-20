@@ -43,10 +43,10 @@ The menu exposes a **Bots** option and the codebase includes the scaffolding for
 
 ## Cloning
 
-# via SSH
+via SSH
 git clone git@github.com:pereiravp/LP.git
 
-# via HTTPS
+via HTTPS
 git clone https://github.com/pereiravp/LP.git
 
 cd LP
