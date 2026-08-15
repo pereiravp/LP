@@ -6,8 +6,8 @@ Implementation of the classic *Worms* game written entirely in **Haskell**, usin
 
 Group project developed by:
 
-- **Gonçalo Pereira** — @pereiravp
-- **David Mimoso** — @davidmimoso
+- **Gonçalo Pereira** ([@pereiravp](https://github.com/pereiravp))
+- **David Mimoso** ([@davidmimoso](https://github.com/davidmimoso))
 
 ## Overview
 
@@ -33,7 +33,7 @@ Gameplay:
 
 ## Known Limitations
 
-The menu exposes a **Bots** option and the codebase includes the scaffolding for a one-human-versus-three-bots mode (the `ConfigBot` configuration, bot naming, and per-turn bot detection). However, the AI decision logic was never implemented: when it is a bot's turn the game returns the state unchanged, so CPU-controlled worms take no action and the turn does not progress meaningfully. As a result the bot mode is effectively non-functional and its gameplay is poor. Human-versus-human play works as intended.
+The menu exposes a **Bots** option with scaffolding for one-human-versus-three-bots (config, naming, per-turn detection), but the bot decision logic itself was never implemented: on a bot's turn the state just passes through unchanged, so the mode is effectively non-functional. Human-versus-human play works as intended.
 
 ## Requirements
 
@@ -107,4 +107,4 @@ LP/
 
 ## Academic Context
 
-Developed for the Laboratórios de Informática / Programação I course, Software Engineering degree, University of Minho (2024/2025).
+Developed for the Laboratórios de Informática / Programação I course, BSc in Computer Science (LCC), University of Minho (2024/2025).
